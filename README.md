@@ -1,4 +1,4 @@
-# apache-iptables-security
+# apache-iptables-security (sesame)
 These scripts protect a server running Apache, PHP and iptables against SSH brute forcing or attacks on ports other to 80/443
 
 ## Installation
